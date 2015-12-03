@@ -22,6 +22,7 @@ syntax: glob
 *.sbr
 *.scc
 *.sln.ide/
+.vs/
 Logs
 [Bb]in
 [Dd]ebug*/

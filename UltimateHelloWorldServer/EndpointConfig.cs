@@ -11,7 +11,6 @@ namespace UltimateHelloWorldServer
         {
             configuration.UsePersistence<InMemoryPersistence>();
             configuration.EnableInstallers();
-            Console.WriteLine("Hello World");
         }
     }
 }
